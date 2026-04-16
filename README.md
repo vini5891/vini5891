@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou José Vinicius 👋 
 
-<!--
-**vini5891/vini5891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Analista de Dados e Analista de Engenharia de Dados. 
 
-Here are some ideas to get you started:
+💼 **Atuação Profissional**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 Analista de Dados atuando na estruturação de dados, automação de fluxos e projetos de centralização de ecossistemas.
+* 🎓 Pós-graduando (MBA) em Data Science e Analytics pela USP/Esalq.
+
+🛠️ **Especialidades**
+
+* 💻 Pergunte-me sobre Engenharia de Dados, pipelines de ETL/ELT, SQL e Python! 
+* ☁️ Experiência com estruturação em Arquitetura Medalhão (Databricks) e soluções em nuvem como Microsoft Fabric
+
+📫 **Como me encontrar:**
+* ✉️ E-mail: vinicius.JV02@gmail.com 
