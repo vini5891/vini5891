@@ -6,10 +6,11 @@
 
 * 🚀 Analista de Dados atuando na estruturação de dados, automação de fluxos e projetos de centralização de ecossistemas.
 * 🎓 Pós-graduando (MBA) em Data Science e Analytics pela USP/Esalq.
+* 💻 Dio Campus Expert Tumar 15 
 
 🛠️ **Especialidades**
 
-* 💻 Pergunte-me sobre Engenharia de Dados, pipelines de ETL/ELT, SQL e Python! 
+* 🔧  Pergunte-me sobre Engenharia de Dados, pipelines de ETL/ELT, SQL e Python! 
 * ☁️ Experiência com estruturação em Arquitetura Medalhão (Databricks) e soluções em nuvem como Microsoft Fabric
 
 📫 **Como me encontrar:**
